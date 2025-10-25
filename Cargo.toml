@@ -101,7 +101,7 @@ spl-memo = { default-features = false, version = "^6" }
 spl-pod = { default-features = false, version = "^0.5" }
 spl-token = { default-features = false, version = "^8" }
 spl-token-2022 = { default-features = false, version = "^9" }
-spl-token-confidential-transfer-proof-extraction = { default-features = false, version = "^0.4" }
+spl-token-confidential-transfer-proof-extraction = { default-features = false, version = "^0.5" }
 spl-token-group-interface = { default-features = false, version = "^0.6" }
 spl-token-metadata-interface = { default-features = false, version = "^0.7" }
 tarpc = { default-features = false, version = "^0.29" }
