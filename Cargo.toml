@@ -82,7 +82,7 @@ solana-reward-info = { default-features = false, version = "^2" }
 solana-rpc = { default-features = false, version = "^2" }
 solana-sdk = { default-features = false, version = "^2" }
 solana-sdk-ids = { default-features = false, version = "^2" }
-solana-signature = { version = "2", default-features = false }
+solana-signature = { version = "3", default-features = false }
 solana-slot-hashes = { default-features = false, version = "^2" }
 solana-slot-history = { default-features = false, version = "^2" }
 solana-stake-interface = { default-features = false, version = "^1" }
